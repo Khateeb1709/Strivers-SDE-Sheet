@@ -6,7 +6,7 @@ class Solution {
     // TC : O(N*M)(N+M) + O(N*M) ~ O(N^3)
     // SC : O(1)
     
-    // The above solution won't work for a matrix that contains numbers >= 0. 
+    // The above solution won't work for a matrix that contains numbers < 0. 
 
 
     // Better Solution Using O(M+N) extra space
